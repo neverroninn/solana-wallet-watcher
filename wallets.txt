@@ -1,0 +1,1 @@
+# one Solana wallet address per line
